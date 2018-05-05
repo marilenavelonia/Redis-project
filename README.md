@@ -1,7 +1,4 @@
 # Redis-project
-Assignment #2 - Redis
-Due Date: May 7th, 11:59pm
-
 
 You are going to use Redis to store a financial data stream and answer stream queries (though not continuous). 
 
